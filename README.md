@@ -1,1 +1,21 @@
-# The-Pandas-Workshop
+# The Pandas Workshop
+
+- A comprehensive guide to using Python for data analysis with real-world case studies
+
+- The Pandas Workshop will teach you how to be more productive with data and generate real business insights to inform your decision-making. You will be guided through realworld data science problems and shown how to apply key techniques in the context of realistic examples and exercises. Engaging activities will then challenge you to apply your new skills in a way that prepares you for real data science projects.
+
+## What this book covers
+- Chapter 1, Introduction, shows how pandas is one of the most versatile applications for data processing today and why it is the most sought-after tool for any data scientist. This chapter gives a brief introduction to many of the versatile features of pandas. It also takes a tour through all the topics that will be covered in this book, along with some introductory exercises using pandas.ii Preface What this book covers xi
+- Chapter 2, Data Structures, covers a key benefit of pandas, which is that it provides intuitive data structures that align to a wide range of data analysis tasks. The focus here is on learning about the important data structures in pandas, especially DataFrames, Series, and pandas index structures.
+- Chapter 3, Data I/O, explores the built-in functions that pandas provides to read data from a large variety of sources, as well as write data back to them, or to new files. In this chapter, you will learn all the important supported I/O methods.
+- Chapter 4, Data Types, explains why, when doing data analysis with pandas, it is critical to use the correct data type, otherwise, unexpected results or errors might appear. In this chapter, you will learn about pandas data types and how to use them.
+- Chapter 5, Data Selection – DataFrames, does a deep dive into using DataFrames now that you are well versed in the available data structures and methods in pandas.
+- Chapter 6, Data Selection – Series, highlights some of the important differences when working with pandas Series and is a companion to Chapter 5, Data Selection – DataFrames.
+- Chapter 7, Data Transformation, talks about how any dataset comes with challenges to its quality. In this chapter, you will learn how to use pandas to solve these challenges and make them ready for your analysis.
+- Chapter 8, Data Visualization, discusses how pandas offers in-built data visualization methods to accelerate your data analysis. In this chapter, you will learn how to build data visualizations from a DataFrame and how to further customize them with matplotlib.
+- Chapter 9, Data Modeling – Preprocessing, helps you to understand how to do some preliminary data review and analysis in pandas as a preparatory step to modeling, as well as some transformations important to successful modeling.
+- Chapter 10, Data Modeling – Modeling Basics, introduces you to some powerful pandas methods for resampling and smoothing data to find patterns and gain insights that can be used in more complex modeling tasks.
+- Chapter 11, Data Modeling – Regression Modeling, focuses on a workhorse method, regression modeling, as the next step toward using models to understand data and make predictions. By the end of the chapter, you will be tackling complex multi-variate datasets with regression models.
+- Chapter 12, Using Time in pandas, describes another type of data supported by pandas, time series data. It also looks at how pandas provides a wide range of methods to handle data organized by dates and/or times. You will learn how to do operations on time stamps, and see all the additional time-related attributes provided by pandas.xii Preface To get the most out of this book iii
+- Chapter 13, Exploring Time Series, focuses on how to use a time series index to perform operations on time series data to gain insights. By the end of the chapter, you will apply regression modeling to time series data.
+- Chapter 14, Case Studies/Mini Projects, enables you to apply your knowledge to data analytics problems, as you will have learned a great deal about pandas throughout this book. This chapter will cover three case studies where you will apply all the skill sets you have gained through this book
